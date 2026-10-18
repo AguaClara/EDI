@@ -2,16 +2,13 @@
 
 ## Project Description
 
-The Electronics and Data Infrastructure (EDI) subteam focuses on establishing wireless communication between the turbidimeters, HAnD, and the Arduino server.  
-
-This communication enables internal data transfer and cloud connectivity. Transmitting data to the cloud allows integration with POST, supporting real-time monitoring and plant performance assessment.
-
+The AguaClara Electronics and Data Infrastructure team (EDI) is currently attempting to develop an electronic methane detection system to support the Upflow Anaerobic Sludge Blanket (UASB) team. 
 ---
 
-## Team Members (Spring 2026)
+## Team Members (Fall 2026)
 
 - Ayesha Abdiel — asa253@cornell.edu  
-- Armaan Chandak — ac2992@cornell.edu 
+- Angela Zhang — ac2992@cornell.edu 
 - Jayden Doshi  — jd2368@cornell.edu 
 ---
 
